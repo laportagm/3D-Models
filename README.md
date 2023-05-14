@@ -8,8 +8,5 @@ Accurate Representation: The 3D models in this repository are created based on h
 # Interactive Learning:
 With these 3D printed brain section models, learners can physically examine and manipulate different parts of the brain, gaining a deeper understanding of its structure and functions.
 
-# Visual Aid: 
-The models are color-coded and labeled, allowing users to easily identify specific regions, anatomical structures, and neural pathways within the brain.
-
 # Hands-on Experience: 
 By physically handling the 3D models, learners can engage in a tactile learning experience that complements traditional textbook or digital learning materials.
